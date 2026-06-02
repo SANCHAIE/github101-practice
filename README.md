@@ -22,6 +22,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| ภารดร ขันทอง | Team 11 | Frontend Developer | [67050569-pharadon](docs/evidence/67050569-pharadon.md) | [#8](https://github.com/SANCHAIE/github101-practice/issues/8) |
 
 ---
 
