@@ -22,6 +22,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+|narongchai vongsa-ad| Team 15 | Cloud / Integration Developer | [example evidence](docs/evidence/example-student.md) | - |
 
 ---
 
