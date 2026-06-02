@@ -22,6 +22,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| วิชญาดา ถิ่นแก้ว | Team 11 | UX/UI Desihn/Backend Support | กำลังทำ | กำลังทำ |
 
 ---
 
