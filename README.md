@@ -23,6 +23,10 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
 
+| Name | Team | Role | Evidence File | Issue Link |
+|---|---|---|---|---|
+| Anna Worrasing | Team 11 | Backend Developer | กำลังทำ | - |
+
 ---
 
 ## วิธีทำ Part B: Practical Test
