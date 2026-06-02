@@ -22,7 +22,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
-| Kittisak Nanunak | Team 07 | Developer |Evidence File link: https://github.com/67050546/github101-practice/blob/main/docs/evidence/67050546_Kittisak.md |  |
+| Kittisak Nanunak | Team 07 | Developer |https://github.com/67050546/github101-practice/blob/main/docs/evidence/67050546_Kittisak.md |  |
 
 ---
 
